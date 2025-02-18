@@ -18,11 +18,10 @@ layout: default
 
 
 
-### Small image
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
 
 ```
-The final element.
+:{)
 ```
