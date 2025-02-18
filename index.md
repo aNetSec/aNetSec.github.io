@@ -20,7 +20,6 @@ layout: default
 - Cryptography
 - Security Tools
 
-
 > Enjoy :)
 
 
