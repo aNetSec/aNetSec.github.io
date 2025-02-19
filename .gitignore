@@ -408,4 +408,4 @@ _site/
 .bundle/
 vendor/
 _site
-/_site/index.html
+/_site/*
