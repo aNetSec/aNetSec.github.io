@@ -29,6 +29,12 @@ Each team must choose one topic from [Table1](#table1) and one topic from [Table
 | **Firewall**   | Compare UFW, Windows firewall, ... | Not Yet |
 | **IDS/IPS**   | Snort or Suricata intro| Not Yet |
 | **SOC**   | SOC and SOC Tools| Not Yet |
+| **Password Cracking**   | Password cracking tools Tools| Not Yet |
+| **LOTL**   | Living Off the Land (LOTL) Attacks| Not Yet |
+| **Crrating Malware**   | Create a simple malware| Not Yet |
+| **Persistence Techniques**   | Persistence techniques in windows| Not Yet |
+| **SET**   | The Social-Engineer Toolkit (SET)| Not Yet |
+| **Post Quantum**   | Post quantum cryptography| Not Yet |
 
 
 
