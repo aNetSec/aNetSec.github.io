@@ -12,6 +12,7 @@ layout: default
 | How Cybersecurity Really Works | nostarch | 2021 | Sam Grubb | [Link](https://nostarch.com/cybersecurityreallyworks)|
 | Linux Basics for Hackers | nostarch | 2018 | OccupyTheWeb | [Link](https://nostarch.com/linuxbasicsforhackers)|
 | Cybersecurity for Small Networks | nostarch | 2022 | Seth Enoka | [Link](https://nostarch.com/cybersecurity-small-networks)|
+| Practical Networking | Website |  |  | [Link](https://www.practicalnetworking.net/)|
 
 
 ```
