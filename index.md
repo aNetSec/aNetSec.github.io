@@ -13,7 +13,7 @@ layout: default
 > Presentation topics for the course can be found on [Topics](/topics.html) page.
 
 
-> ## Course Goal
+> ## Course Goals
  Familiarity with 
 - Network Security
 - Attack Types
