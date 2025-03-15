@@ -18,7 +18,7 @@ You can download all session slides from the table below.
 | 2025-03-01 |   04  | Digital Signatures   | [06-Digital Signatures](/slides/06-DigitalSignatures.pdf) |
 | 2025-03-08 |   05  | Cryptographic Key Management   | [07-Cryptographic Key Management](/slides/07-CryptographicKeyManagement.pdf) |
 | 2025-03-09 |   -  | Homework1   | [Homework1](/slides/ANS-HW1.pdf) |
-| 2025-03-15 |   06  | User Authentication   | [User Authentication](/slides/08-UserAuthentication.pdf) |
+| 2025-03-15 |   06  | User Authentication   | [08-User Authentication](/slides/08-UserAuthentication.pdf) |
 
 
 
