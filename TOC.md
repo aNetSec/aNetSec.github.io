@@ -21,8 +21,10 @@ You can download all session slides from the table below.
 | 2025-03-15 |   06  | User Authentication   | [08-User Authentication](/slides/08-UserAuthentication.pdf) |
 | 2025-04-05 |   07  | PGP   | [09-PGP](/slides/09-PGP.pdf) |
 | 2025-04-12 |   08  | SSL/TLS   | [10-SSL-TLS](/slides/10-SSL-TLS.pdf) |
+| 2025-04-18 |   -  | Project1   | [ANS-Project1](/slides/ANS-Project1.pdf) |
 | 2025-04-19 |   09  | IPSec-VPN   | [11-IPSec-VPN](/slides/11-IPSec-VPN.pdf) |
 | 2025-04-19 |   09  | Firewall-IDS-IPS   | [12-Firewall-IDS-IPS](/slides/12-Firewall-IDS-IPS.pdf) |
+
 
 
 
