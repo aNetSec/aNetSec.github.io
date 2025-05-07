@@ -24,7 +24,9 @@ You can download all session slides from the table below.
 | 2025-04-18 |   -  | Project1   | [ANS-Project1](/slides/ANS-Project1.pdf) |
 | 2025-04-19 |   09  | IPSec-VPN   | [11-IPSec-VPN](/slides/11-IPSec-VPN.pdf) |
 | 2025-04-19 |   09  | Firewall-IDS-IPS   | [12-Firewall-IDS-IPS](/slides/12-Firewall-IDS-IPS.pdf) |
-| 2025-04-26 |   10  | WebSecurity   | [13-WebSecurity](/slides/13-WebSecurity.pdf) |
+| 2025-04-26 |   10  | Web Security   | [13-WebSecurity](/slides/13-WebSecurity.pdf) |
+| 2025-05-10 |   11  | DNS sec   | [14-DNSsec](/slides/14-DNSsec.pdf) |
+
 
 
 
