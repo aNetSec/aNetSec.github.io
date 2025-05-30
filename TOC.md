@@ -27,10 +27,11 @@ You can download all session slides from the table below.
 | 2025-04-26 |   10  | Web Security   | [13-WebSecurity](/slides/13-WebSecurity.pdf) |
 | 2025-05-03 |   11  | Web Security   | [13-WebSecurity](/slides/13-WebSecurity.pdf) |
 | 2025-05-10 |   12  | DNS sec   | [14-DNSsec](/slides/14-DNSsec.pdf) |
-| 2025-05-17 |   13  | Malwares   | [15-Malwares](/slides/15-Malwares.pdf) | 
-
-
-
+| 2025-05-17 |   13  | Malwares   | [15-Malwares](/slides/15-Malwares.pdf) |
+| 2025-05-24 |   14  | Malwares   | [15-Malwares](/slides/15-Malwares.pdf) | 
+| 2025-03-25 |   -  | Homework2   | [Homework2](/slides/ANS-HW2.pdf) |
+| 2025-04-25 |   -  | Project2   | [ANS-Project2](/slides/ANS-Project2.pdf) |
+| 2025-05-31 |   15  | Malwares   | [15-Malwares](/slides/15-Malwares.pdf) | 
 
 
 ```
