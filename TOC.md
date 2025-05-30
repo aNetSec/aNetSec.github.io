@@ -35,5 +35,5 @@ You can download all session slides from the table below.
 
 
 ```
-Never stop learning :)
+Never Stop Learning :)
 ```
